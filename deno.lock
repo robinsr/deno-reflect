@@ -1,0 +1,11 @@
+{
+  "version": "3",
+  "remote": {
+    "https://esm.sh/v135/*typedjson@1.8.0": "7f9d4bf3b9b1dcabd9cd4f165dda9275ecf8c4b42182a0e37215d6e2fe6ed5c1",
+    "https://esm.sh/v135/reflect-metadata@0.1.13": "897ecd5e315fcdc2375ef4e8247b29751a22a18046b38daf75a788eeb575a358",
+    "https://esm.sh/v135/reflect-metadata@0.1.13/denonext/reflect-metadata.mjs": "966ba96ac64a43fcbd49a3083fc7a21c4b49839d8b6645ffab02be209fa67d93",
+    "https://esm.sh/v135/tslib@2.6.2": "79157e81d32b9c0509865255f8eb5dbe28a1cc4dead704c126dc22ba711af261",
+    "https://esm.sh/v135/tslib@2.6.2/denonext/tslib.mjs": "29782bcd3139f77ec063dc5a9385c0fff4a8d0a23b6765c73d9edeb169a04bf1",
+    "https://esm.sh/v135/typedjson@1.8.0/X-ZS8q/denonext/typedjson.mjs": "630d84bf7840cb9bff9014194e10bf8ba2dfa9b0347323362084e61666f15b93"
+  }
+}
